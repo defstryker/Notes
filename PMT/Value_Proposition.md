@@ -39,8 +39,14 @@
 > #### Google Assistant
 > - Solves: 
    - ..
-> - features
+> - features / punch lines
    - can carry conversations 
    - more use, more useful
    - _Just for you._
+   - NLP makes it better.
+   - **State of the art** Machine Learning & AI
+   - Description of Alpha go [Deep learning] (quantitative). 
+   - quality 89%, ~94%. (quantitative)
+   - 1:1 comparison between past & present
+   - Text-To-Speech: Awesomeness... Just wow.
    
